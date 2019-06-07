@@ -1,0 +1,3 @@
+[submodule "Plugins/PsFacebookMobile"]
+	path = Plugins/PsFacebookMobile
+	url = ../PsFacebookMobile.git
